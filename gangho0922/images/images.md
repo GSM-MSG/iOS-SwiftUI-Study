@@ -8,7 +8,7 @@
 
 그러니 아래와 같이 assets 파일로 들어가서 원하는 사진을 넣어준다!
 
-![](asset.png)
+![](Images~/asset.png)
 
 ### 이러고 나서 과연 코드로는 어떻게 추가할까?
 
@@ -84,7 +84,7 @@ struct ContentView: View {
     }
 }
 ```
-![](aspectRatio.png)
+![](Images~/aspectRatio-fit.png)
 
 ### .aspectRatio(contentMode: .fill)의 예시
 ```swift
@@ -98,14 +98,14 @@ struct ContentView: View {
     }
 }
 ```
-![](aspectRatio-fill.png)
+![](Images~/aspectRatio-fill.png)
 ### 설정한 프레임을 초과했을 경우!
 ```swift
 .clipped()
 ```
 이걸 사용해서 원하는 사이즈로 자를 수 있도록 해준다.
 
-![](clipped.png)
+![](Images~/clipped.png)
 
 ## Creating a Image!!
 SwiftUI에서 여러 모양들을 제공해주고 있는데,<br>
@@ -122,7 +122,7 @@ struct ContentView: View {
     }
 }
 ```
-![](makingImage.png)
+![](Images~/makingImage.png)
 
 #### 이외에도 동그라미, 캡슐.. 등이 있다!
 
@@ -142,7 +142,7 @@ struct ContentView: View {
     }
 }
 ```
-![](opacity.png)
+![](Images~/opacity.png)
 
 ## images - Overlay
 이미지를 중복시키는 방식인 ContainerView 방식이 있는데 이를 사용하기 위해서 overlay를 사용해보자!
@@ -164,7 +164,7 @@ struct ContentView: View {
     }
 }
 ```
-![](overlay.png)
+![](Images~/overlay.png)
 #### 이렇게!! 두 이미지를 곂치는 것까지 한번 해보았다!!
 ___
 휴 힘들었다... 
