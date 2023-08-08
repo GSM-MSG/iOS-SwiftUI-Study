@@ -20,7 +20,7 @@ UnitPoint는 9가지의 지점이 있습니다.
 
 <br>
 
-``` 
+```Swift
 LinearGradient(colors: [.pink, .red], startPoint: .topTrailing, endPoint: .bottomLeading)
   .overlay(Text("LenarGradient"))
 ```
@@ -40,7 +40,7 @@ LinearGradient(colors: [.pink, .red], startPoint: .topTrailing, endPoint: .botto
 
 <br>
 
-```
+```Swift
 RadialGradient(colors: [.pink, .red], center: .center, startRadius: 0, endRadius: 270)
   .overlay(Text("RadialGradient"))
 ```
@@ -59,7 +59,7 @@ RadialGradient(colors: [.pink, .red], center: .center, startRadius: 0, endRadius
 
 <br>
 
-```
+```Swift
 AngularGradient(colors: [.pink, .red], center: .center)
   .overlay(Text("AngularGradient"))
 ```
