@@ -154,6 +154,6 @@ struct CheckPoint3: View {
 }
 ```
 이렇게 중간에 Spacer를 주면
-![image](https://cdn.discordapp.com/attachments/1108767348208447618/1138013166371082331/2023-08-07_4.37.55.png)
+![image](https://cdn.discordapp.com/attachments/1098858102582956064/1138471668512206981/2023-08-08_10.59.13.png)
 
 이렇게 된다!
