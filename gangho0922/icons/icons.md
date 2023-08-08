@@ -4,7 +4,7 @@
 
 목차에 보니까...
 
-![](스터디목차.png)
+![](../icons/Images/스터디목차.png)
 
 한 거의 80가까이 되는 양이...
 
@@ -17,7 +17,7 @@
 ### SF Symbols란?
 SF Symbols는 Apple 플랫폼의 시스템 서체인 San Francisco와 매끄럽게 통합되도록 설계된 아이콘 라이브러리로, 5,000개 이상의 아이콘을 제공해준다!
 
-![](SFSymbols로고.png)
+![](../icons/Images/SFSymbols로고.png)
 ___
 ### SF의 장점?
 * **일관성과 통일성**<br>
@@ -45,13 +45,13 @@ ___
 
 이 URL로 접속해서
 
-![](../icons/SF_DownLoad.png)
+![](../icons/Images/SF_DownLoad.png)
 
 오른쪽 위에 다운로드로 다운 받아주자!
 
 다운을 다 받고 열어보면 
 
-![](SF화면.png)
+![](../icons/Images/SF화면.png)
 
 이런식으로 SF Symbols에 어떤 이미지들이 있는지 확인해볼 수 있다!
 
@@ -67,13 +67,13 @@ struct ContentView: View {
 ```
 위의 코드를 실행하게 되면
 
-![](실행화면.png)
+![](../icons/Images/실행화면.png)
 
 위와 같이 잘 실행될 것이다!
 ___
 ### SF Symbols - font
 
-![](SF_font.png)
+![](../icons/Images/SF_font.png)
 
 SF에서는 위의 사진과 같이 font속성을 그대로 사용할 수 있다!
 ___
@@ -83,7 +83,7 @@ ___
 ```
 이런식으로 작성해서 
 
-![](SWD.png)
+![](../icons/Images/SWD.png)
 
 size와 Weight 그리고 Design을 조절해서 사용 가능하다!
 
@@ -97,7 +97,7 @@ ___
 ```
 이런식으로 foregroundColor를 사용해서
 
-![](색상조정.png)
+![](../icons/Images/색상조정.png)
 
 위와 같이 색상을 조정시킬 수 있다!
 ___
@@ -107,7 +107,7 @@ ___
 ```
 이런식으로 작성해서
 
-![](배경색조정.png)
+![]((../icons/Images/배경색조정.png)
 
 위의 사진과 같이 배경색을 넣어서 조정시켜줄 수 있다!
 
