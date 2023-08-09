@@ -1,4 +1,4 @@
-# iOS스터디 3 - icons
+# iOS스터디 5 - icons
 이번에 우리 학교에서 소규모로 진행되는 iOS 스터디에서 과제가 하나 나왔다.<br>
 내가 이번에 맡은 구역은 **icons**라는 부분과 **images**부분을 맡게 되었는데..
 
@@ -88,7 +88,7 @@ ___
 size와 Weight 그리고 Design을 조절해서 사용 가능하다!
 
 * size - 크기 조절
-* weight - 글시체
+* weight - 기본 글시체 사용(bold, medium...등등)
 * design - 말그대로 ㅎ
 ___
 ### SF Symbols - foregroundColor
