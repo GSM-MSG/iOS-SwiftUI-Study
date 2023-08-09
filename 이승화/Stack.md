@@ -67,8 +67,10 @@ var body: some View {
         }
     }
 ```
-이렇게 Text라는 View를 HStack으로 감싸면 
+이렇게 Text라는 View를 HStack으로 감싸면
+
 ![image](https://cdn.discordapp.com/attachments/1098858102582956064/1137989320930770976/2023-08-07_3.02.40.png)
+
 이렇게 수평으로 배열이 된다!
 
 *** 
