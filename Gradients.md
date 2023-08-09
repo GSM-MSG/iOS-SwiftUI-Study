@@ -1,5 +1,5 @@
 # <b> Gradients </b>
-그라데이션을 지정해주는 기능입니다.  
+그러데이션을 지정해 주는 기능입니다.  
 Linear, Angular, Radial로 3가지 종류로 나누어집니다.
 
 <br>
@@ -10,8 +10,8 @@ Linear, Angular, Radial로 3가지 종류로 나누어집니다.
 
 ## <b> Linear Gradients </b>
 - 색상입력 - colors  
-- 시작지점 - startPoint  
-- 종료지점 - endPoint  
+- 시작 지점 - startPoint  
+- 종료 지점 - endPoint  
 
 <br>
 
@@ -24,7 +24,7 @@ UnitPoint는 9가지의 지점이 있습니다.
 LinearGradient(colors: [.pink, .red], startPoint: .topTrailing, endPoint: .bottomLeading)
   .overlay(Text("LenarGradient"))
 ```
-- 오른쪽 위에서 부터 핑크색이 시작되어서 왼쪽 아래로 갈수록 빨간색이 되는 그라데이션
+- 오른쪽 위에서부터 핑크가 시작되어서 왼쪽 아래로 갈수록 빨간색이 되는 그러데이션
 
 <br>
 
@@ -45,7 +45,7 @@ RadialGradient(colors: [.pink, .red], center: .center, startRadius: 0, endRadius
   .overlay(Text("RadialGradient"))
 ```
 
-- 가운데 핑크부분으로 시작되어서 바깥쪽으로 갈수록 빨간색이 되는 그라데이션
+- 가운데 핑크 부분으로 시작되어서 바깥쪽으로 갈수록 빨간색이 되는 그러데이션
 
 <br>
 
@@ -64,4 +64,4 @@ AngularGradient(colors: [.pink, .red], center: .center)
   .overlay(Text("AngularGradient"))
 ```
 
-- 오른쪽 중앙 핑크부분에서 시작되어서 시계방향으로 가면서 빨간색이되는 그라데이션
+- 오른쪽 중앙 핑크 부분에서 시작되어서 시계방향으로 가면서 빨간색이 되는 그러데이션
